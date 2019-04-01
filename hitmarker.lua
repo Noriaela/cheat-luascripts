@@ -25,6 +25,8 @@ local function TF2Hitsound( Event )
 
 			if ( INDEX_Attacker == ME and INDEX_Victim ~= ME ) then
 				client.Command( "play Hitsound_retro1.wav", true );
+			   --[[ https://wiki.teamfortress.com/w/images/5/59/Hitsound_retro1.wav --]]	
+				
 			end
 	 
 		end
