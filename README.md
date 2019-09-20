@@ -1,7 +1,4 @@
-# Aimware-LuaScripts
+# Cheat-LuaScripts
 
-All the scripts i'm currently using
-
-### Credits
-* [HridayHS for the hitmarker file](https://github.com/HridayHS/aimware_lua_scripts/blob/master/MetallicHitsound.lua)
-* [cobyyolo for the halo announcer lua/](https://www.cobyyolo.vip/lua/)[sounds](https://www.cobyyolo.vip/lua/announcer.zip)
+* Q: Why did you make this repo?
+* A:  I don't expect to get anything outside of Aimware but this repo is here just on the off chance that I happen to get anything else with lua support. e.g., [Aimware](https://aimware.net), Fatality, Skeet, ect.
